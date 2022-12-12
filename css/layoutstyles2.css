@@ -1,10 +1,10 @@
 .body {
-    background-color: rgb(32, 175, 204);
+    background-color: rgb(124, 220, 239);
     font-size: medium;
 }
 
 .common {
-    border: 4px double rgb(101, 0, 148);
+    border: 4px double black;
     border-style: ridge;
 }
 
@@ -14,7 +14,7 @@
     left: 10px;
     height: 90px;
     z-index: auto;
-    border-bottom: rgb(101, 0, 148);
+    border-bottom: black;
     text-align: center;
     padding: 15px;
 }
@@ -32,7 +32,7 @@
     left: 5px;
     width: 100%;
     bottom: 39px;
-    border-left: 1px solid double  rgb(101, 0, 148);
+    border-left: 1px solid double  black;
     padding-left: 5px;
     text-align: center;
 }
